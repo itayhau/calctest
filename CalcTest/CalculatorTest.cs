@@ -29,7 +29,7 @@ namespace CalcTest
             var result = calc.Add(3, 4); // come form DB
 
             // Assert
-            Assert.AreEqual(result, 7); // come form DB
+            Assert.AreEqual(result, 8); // come form DB
         }
 
         [TestMethod]
